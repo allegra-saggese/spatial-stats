@@ -2,3 +2,4 @@
 install.packages("geoR")
 install.packages("fields") # may be a bit 'decommissioned' 
 install.packages("spBayes")
+install.packages("scatterplot3d")
