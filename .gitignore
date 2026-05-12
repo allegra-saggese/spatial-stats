@@ -1,2 +1,7 @@
 *.csv
 *.png
+
+hw3-raca/data_clean/*.csv
+hw3-raca/*.csv
+hw3-raca/RaCA_Download/Data/*.csv
+
